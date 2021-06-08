@@ -1,5 +1,7 @@
 # Lucas
 
+Este proyecto se creó con el fin utilizar Angular. Va dedicado a mi perro que lo estimoy valoro mucho
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.2.
 
 ## Development server
